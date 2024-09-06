@@ -68,8 +68,6 @@ where continent is not null
 Group by continent
 order by TotalDeathCount desc
 
---He mentions around 41:36 on SQL Video, Part 1. 
---He mentions changing the GroupBy to Continent for Drilldwon purposes
 
 -- GLOBAL NUMBERS
 
@@ -165,6 +163,4 @@ where dea.continent is not null
 Select *
 From PercentPopulationVaccinated
 
-
---Ended around 1:13:55 on SQL Video, Part 1.
 
